@@ -8,8 +8,6 @@ To develop a Django application to store and retrieve data from Car Inventory Da
 
 ![alt text](<WhatsApp Image 2025-09-13 at 11.18.53_7cb24109.jpg>)
 
-## DESIGN STEPS
-
 ### STEP 1:
 Clone the problem from GitHub
 
@@ -48,7 +46,8 @@ class car(models.Model):
 
 
 ## OUTPUT
-c:\Users\CJ ROHIT\OneDrive\画像\Screenshots\10 car.png
+![alt text](<10 car.png>)
 
+```
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
